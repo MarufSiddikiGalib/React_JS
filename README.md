@@ -1,2 +1,2 @@
 # React_JS .. 
-practice with react js 
+practice with react js while learning
